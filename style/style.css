@@ -17,7 +17,7 @@
     transition: all 1.0s linear;
 }
 
-#f1_container:target #f1_card {
+#f1_container:hover #f1_card {
     transform: rotateY(180deg);
 }
 
